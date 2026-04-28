@@ -1,6 +1,8 @@
 # E-Commerce Analytics Dashboard
 
 A production-ready business intelligence dashboard built with **Streamlit** and **Plotly**, analysing a real-world e-commerce dataset (~540 k transactions).
+Link to view dashboard: https://e-commerce-dashboard-butqd7mn23duswdamuetcy.streamlit.app/
+Link to dataset: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ---
 
